@@ -1,0 +1,38 @@
+body{background-color: rgb(255, 162, 55);
+font-family: "Heebo",sans-serif;}
+h1,h2,h3{margin: 0;}
+.card{padding: 24px;
+margin-left: 500px;
+margin-top: 30px;
+background-color: rgb(255, 224, 67);
+height: 500px;
+width: 300px;
+text-align: center;
+border-radius: 10px;}
+.card img{
+    border-radius: 50%;
+width: 120px;}
+.description h1{color: white;
+    font-weight: 500;
+}
+.description h2{color: rgb(179, 161, 99);
+margin-top: 5px;
+margin-bottom: 20px;
+font-weight: 200;}
+.description h3{color: rgb(170, 112, 20);
+}
+.links{margin-top: 20px;
+}
+.links a{text-decoration: none;
+    color: brown;
+font-weight: 600;
+;
+}
+.links button{width: 250px;
+height: 50px;
+margin-bottom: 10px;
+background-color: white;
+border: none;
+border-radius: 10px;
+cursor: pointer;}
+.links button:hover{background-color: rgb(255, 162, 55);}
